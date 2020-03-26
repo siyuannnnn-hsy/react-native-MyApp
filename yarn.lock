@@ -1312,9 +1312,9 @@ acorn-walk@^6.0.1:
   integrity sha512-7evsyfH1cLOCdAzZAd43Cic04yKydNx0cF+7tiA19p1XnLLPU4dpCQOqpjqwokFe//vS0QqfqqjCS2JkiIs0cA==
 
 acorn@^6.0.1:
-  version "6.4.0"
-  resolved "https://registry.yarnpkg.com/acorn/-/acorn-6.4.0.tgz#b659d2ffbafa24baf5db1cdbb2c94a983ecd2784"
-  integrity sha512-gac8OEcQ2Li1dxIEWGZzsp2BitJxwkwcOm0zHAJLcPJaVvm58FRnk6RkuLRpU1EujipU2ZFODv2P9DLMfnV8mw==
+  version "6.4.1"
+  resolved "https://registry.yarnpkg.com/acorn/-/acorn-6.4.1.tgz#531e58ba3f51b9dacb9a6646ca4debf5b14ca474"
+  integrity sha512-ZVA9k326Nwrj3Cj9jlh3wGFutC2ZornPNARZwsNYqQYgN0EsV2d53w5RN/co65Ohn4sUAUtb1rSUAOD6XN9idA==
 
 acorn@^7.1.0:
   version "7.1.0"
@@ -1330,11 +1330,6 @@ ajv@^6.10.0, ajv@^6.10.2, ajv@^6.5.5:
     fast-json-stable-stringify "^2.0.0"
     json-schema-traverse "^0.4.1"
     uri-js "^4.2.2"
-
-and@^0.0.3:
-  version "0.0.3"
-  resolved "https://registry.npm.taobao.org/and/download/and-0.0.3.tgz#b2f23d6f360dd77109eeaf767054109e4a4c6f8e"
-  integrity sha1-svI9bzYN13EJ7q92cFQQnkpMb44=
 
 ansi-colors@^1.0.1:
   version "1.1.0"
@@ -5725,13 +5720,6 @@ react-lifecycles-compat@^3, react-lifecycles-compat@^3.0.4:
   version "3.0.4"
   resolved "https://registry.npm.taobao.org/react-lifecycles-compat/download/react-lifecycles-compat-3.0.4.tgz#4f1a273afdfc8f3488a8c516bfda78f872352362"
   integrity sha1-TxonOv38jzSIqMUWv9p4+HI1I2I=
-
-react-native-button@^2.4.0:
-  version "2.4.0"
-  resolved "https://registry.npm.taobao.org/react-native-button/download/react-native-button-2.4.0.tgz#42b487073a7ce7c54ab503f77c6ced1ab95742bf"
-  integrity sha1-QrSHBzp858VKtQP3fGztGrlXQr8=
-  dependencies:
-    prop-types "^15.5.10"
 
 react-native-collapsible@^1.4.0:
   version "1.5.1"
